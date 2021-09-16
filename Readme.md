@@ -47,6 +47,9 @@ The following files are important references for this project.
 - [Project Proposal](https://github.com/schatterjeecs/capst_recomendation/blob/master/Capstone_Proposal.pdf)
 - [Datasets](https://github.com/schatterjeecs/capst_recomendation/tree/master/data)
 
+### Setup
+- Run the notebook file
+
 ## Acknowledgements
 Special Thanks to Starbucks and Udacity for providing the datasets and facilitating this project.
 
