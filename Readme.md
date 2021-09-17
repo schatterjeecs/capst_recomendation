@@ -44,7 +44,8 @@ record
 ### Files
 The following files are important references for this project.
 - [Notebook.ipynb](https://github.com/schatterjeecs/capst_recomendation/blob/master/Starbucks_Capstone_notebook_actual.ipynb)
-- [Project Proposal](https://github.com/schatterjeecs/capst_recomendation/blob/master/Capstone_Proposal.pdf)
+- [Project Proposal](https://github.com/schatterjeecs/capst_recomendation/blob/master/Capstone%20Proposal.pdf)
+- [Project Report](https://github.com/schatterjeecs/capst_recomendation/blob/master/Capstone%20Project%20Report.pdf)
 - [Datasets](https://github.com/schatterjeecs/capst_recomendation/tree/master/data)
 
 ### Setup
